@@ -1,4 +1,4 @@
-There's nothing better than exploring french countryside in a campingvan, drinking excellent wine and writing some GO code just for fun. In this case and somewhat unexpectedly, I decided to implement a scrabble game. It's finished and not perfect, but I had lot's of fun and learned a lot about GO and GUI programming in general.
+There's nothing better than exploring french countryside in a campingvan, drinking excellent wine and writing some GO code just for fun. In this case and somewhat unexpectedly, I decided to implement a scrabble game. It is not finished and not perfect, but I had lot's of fun and learned a lot about GO and GUI programming in general.
 
 # Features
 
