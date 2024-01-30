@@ -1,0 +1,10 @@
+go 1.21.1
+
+use (
+	./main
+	./network
+	config
+	game
+	gui
+	linguistic
+)
